@@ -12,4 +12,3 @@
 
 int day = System.Convert.ToInt32(Console.ReadLine());
 dayInfo(day);
-
