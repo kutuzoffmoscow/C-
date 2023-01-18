@@ -1,4 +1,4 @@
-﻿int number = 967;
+﻿int number = 957;
 string str = number.ToString();
 
 if(str.Length > 2)
