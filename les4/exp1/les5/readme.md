@@ -8,4 +8,4 @@
 
 СДЕЛАТЬ МИНИМУМ ТРИ МЕТОДА
 
-[Код] (https://github.com/kutuzoffmoscow/C-/blob/main/les4/exp1/les5/Program.cs)
+[Код](https://github.com/kutuzoffmoscow/C-/blob/main/les4/exp1/les5/Program.cs)
